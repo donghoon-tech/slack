@@ -303,4 +303,5 @@ experiments/notification-lab/
 
 ## 10. Architectural Decision Records
 
-*   **ADR-10**: Smart Notification Routing with Presence-Based Suppression (To be created)
+*   **[ADR-10: Presence-Based Push Notification Suppression](../adr/10-presence-based-push-suppression.md)** ✅
+

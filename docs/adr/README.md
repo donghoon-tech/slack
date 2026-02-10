@@ -17,6 +17,7 @@ The fundamental design decisions that shape the system's backbone.
 | [0007](./07-redis-zset-presence.md) | **Redis ZSET for Presence** | Accepted | 2026-01-16 |
 | [0008](./08-elasticsearch-cdc-search.md) | **ElasticSearch with CDC for Search** | Proposed | 2026-01-31 |
 | [0009](./09-gateway-grpc-streaming.md) | **Gateway gRPC Streaming** | Accepted | 2026-01-10 |
+| [0010](./10-presence-based-push-suppression.md) | **Presence-Based Push Suppression** | Proposed | 2026-02-09 |
 
 ## Implementation Details (50 - 99)
 Specific implementation strategies, optimizations, and security patterns.
